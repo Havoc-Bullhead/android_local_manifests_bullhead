@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path=".repo/local_manifest" name="ComicoTeam/android_local_manifests_I01WD>
+  <project path="kernel/asus/sm8150" name="ComicoTeam/android_kernel_asus_sm815>
+  <project path="device/asus/I01WD" name="ComicoTeam/android_device_asus_I01WD">
+  <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1">
+</manifest>
