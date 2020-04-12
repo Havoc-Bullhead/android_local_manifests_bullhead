@@ -4,5 +4,7 @@
   <project path=".repo/local_manifest" name="ComicoTeam/android_local_manifests_I01WD>
   <project path="kernel/asus/sm8150" name="ComicoTeam/android_kernel_asus_sm815>
   <project path="device/asus/I01WD" name="ComicoTeam/android_device_asus_I01WD">
+  <project path="kernel/asus/rog2" name="ComicoTeam/android_kernel_asus_rog2>
+  <project path="device/asus/I001D" name="ComicoTeam/android_device_asus_I001D">
   <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1">
 </manifest>
