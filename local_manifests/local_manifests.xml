@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/lge/bullhead" name="Havoc-Bullhead/device_lge_bullhead" remote="github" revision="yen" />
+  <project path="device/lge/bullhead" name="Havoc-Bullhead/device_lge_bullhead" remote="github" revision="ten" />
   <project path="kernel/lge/bullhead" name="Havoc-Bullhead/kernel_lge_bullhead" remote="github" revision="10.0" />
   <project path="vendor/lge/bullhead" name="Havoc-Bullhead/vendor_lge_bullhead" clone-depth="1" remote="github" revision="10.0" />
 </manifest>
